@@ -18,6 +18,6 @@ Currently, I am studying at 42 Heilbronn where we learn and practice coding skil
 
 #
 
-<!-- <details>
+<details>
 	<summary><h3>👨‍💻 Jamshidbek's Coding Journey</h3></summary>
-	I have always been a tech guy, but at some point I decided to learn useful skills for job market. I took a Word/Excel/Power-point course. And that's when my teacher told me that I should try programming as he could see good problem solving skills. I  -->
+	As a curious Computer Science student with limited coding skills, I soon realized that the theory-heavy education offered by traditional universities wasn't cutting it for me. I strived for a more hands-on approach, which led me to the dynamic and engaging programming community at 42 Heilbronn. Here, I find myself constantly challenged and excited by the interesting projects and stimulating coursework on offer. Thanks to the supportive guidance of my peers and curriculum, I have grown tremendously as a developer, pushing myself to explore new horizons and constantly improve my skills.
