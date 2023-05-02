@@ -1,4 +1,8 @@
-### Hi there 👋
+# Jamshidbek Ergashev - Goal-oriented person
+
+**'Life Student (Self-aware/Disciplined/Committed) //'driven, committed, self-aware, disciplined, determined
+
+
 
 <!--
 **Jamshidbek2000/Jamshidbek2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
