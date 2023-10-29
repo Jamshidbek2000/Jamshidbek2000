@@ -4,8 +4,7 @@
 
 **`Life Student (Self-aware/Disciplined/Committed)`** <!--'driven, committed, self-aware, disciplined, determined -->
 
-I am a programmer whose goal is to make his contribution to world by problem solving.
-Currently, I am studying at 42 Heilbronn where we learn and practice coding skills. In my "freetime" I like working on myself by reading development books, doing sports and watching educational videos.
+Hello! I'm currently a student at [42 Heilbronn](https://www.42heilbronn.de/en), where I dive into the exciting world of coding, self-development, and the art of learning. Beyond my coding adventures, I'm an avid sports and reading enthusiast. My heart lies in the realms of education and personal growth.
 
 ---
 
@@ -19,6 +18,7 @@ Currently, I am studying at 42 Heilbronn where we learn and practice coding skil
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />                   
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />          
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
    
 <br />
